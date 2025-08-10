@@ -1,2 +1,3 @@
-Vishal is my name 
-I am from pune 
+Vishal is my name done 
+ 
+Added new Method 
